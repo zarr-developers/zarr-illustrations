@@ -3,7 +3,8 @@
 Illustrations by and for the Zarr community,
 organized by creator:
 
-- [Henning Falk](./henning-falk)
+- [Henning Falk](https://github.com/zarr-developers/zarr-illustrations-falk-2022)
 
-All drawings have been donated by the creators
-and are therefore copyright NumFOCUS.
+Unless otherwise stated in the individual READMEs,
+all drawings have been donated by the creators
+and are free to use copyright NumFOCUS.
